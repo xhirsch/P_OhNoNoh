@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32d419ae0aa5ce94a9161d20d016dc42, type: 3}
+  m_Name: Neutral_FilmTransfeStyle
+  m_EditorClassIdentifier: 
+  saturation: 1
+  RContrast: 1
+  GContrast: 1
+  BContrast: 1
+  RMidpoint: 0.5
+  GMidpoint: 0.5
+  BMidpoint: 0.5
+  filmScattering: 0
+  channelOffset: 0.4
+  directions: 4
+  halationSize: 0
+  filmScatteringQuality: 1
+  HalationIntensity: 0
+  noiseResponse: {x: 0, y: 0, z: 0, w: 0}
+  grainScale: 0.563
+  NoiseAmount: 0
